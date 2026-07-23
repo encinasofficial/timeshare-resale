@@ -157,3 +157,77 @@ color:#666;
 line-height:1.8;
 
 }
+
+/* HOW IT WORKS */
+
+.how-it-works{
+
+background:#f5f8fc;
+
+padding:90px 0;
+
+}
+
+.step-card{
+
+background:#fff;
+
+padding:40px 30px;
+
+border-radius:20px;
+
+box-shadow:0 15px 35px rgba(0,0,0,.08);
+
+transition:.3s;
+
+height:100%;
+
+}
+
+.step-card:hover{
+
+transform:translateY(-10px);
+
+}
+
+.step-number{
+
+width:70px;
+
+height:70px;
+
+background:#0d6efd;
+
+color:#fff;
+
+border-radius:50%;
+
+display:flex;
+
+justify-content:center;
+
+align-items:center;
+
+margin:0 auto 25px;
+
+font-size:28px;
+
+font-weight:700;
+
+}
+
+.step-card h4{
+
+margin-bottom:20px;
+
+font-weight:600;
+
+}
+
+.step-card p{
+
+color:#666;
+
+line-height:1.8;
+
+}
