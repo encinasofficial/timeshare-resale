@@ -417,3 +417,51 @@ footer a:hover{
 color:#0d6efd;
 
 }
+
+/* ABOUT */
+
+.about-us{
+
+padding:100px 0;
+
+background:#ffffff;
+
+}
+
+.about-us h2{
+
+font-size:42px;
+
+font-weight:700;
+
+margin-bottom:25px;
+
+}
+
+.about-us p{
+
+font-size:18px;
+
+line-height:1.9;
+
+color:#555;
+
+}
+
+.about-list{
+
+list-style:none;
+
+padding:0;
+
+margin-top:25px;
+
+}
+
+.about-list li{
+
+padding:10px 0;
+
+font-size:18px;
+
+}
