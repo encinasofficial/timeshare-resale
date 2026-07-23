@@ -106,3 +106,54 @@ margin-top:40px;
 }
 
 }
+/* Features */
+
+.features{
+
+background:#ffffff;
+
+padding:90px 0;
+
+}
+
+.feature-card{
+
+background:#fff;
+
+padding:35px;
+
+border-radius:20px;
+
+box-shadow:0 10px 25px rgba(0,0,0,.08);
+
+transition:.3s;
+
+height:100%;
+
+}
+
+.feature-card:hover{
+
+transform:translateY(-10px);
+
+box-shadow:0 20px 40px rgba(0,0,0,.12);
+
+}
+
+.feature-card h3{
+
+margin-bottom:20px;
+
+font-size:24px;
+
+font-weight:600;
+
+}
+
+.feature-card p{
+
+color:#666;
+
+line-height:1.8;
+
+}
