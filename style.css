@@ -335,3 +335,85 @@ line-height:1.8;
 color:#555;
 
 }
+
+/* FINAL CTA */
+
+.final-cta{
+
+padding:100px 20px;
+
+background:linear-gradient(135deg,#0d6efd,#0056d6);
+
+color:#fff;
+
+text-align:center;
+
+}
+
+.final-cta h2{
+
+font-size:42px;
+
+font-weight:700;
+
+margin-bottom:20px;
+
+}
+
+.final-cta p{
+
+font-size:20px;
+
+max-width:700px;
+
+margin:auto;
+
+margin-bottom:35px;
+
+}
+
+.final-cta .btn{
+
+background:#fff;
+
+color:#0d6efd;
+
+border:none;
+
+padding:16px 40px;
+
+font-weight:700;
+
+}
+
+.final-cta .btn:hover{
+
+background:#f2f2f2;
+
+}
+
+footer{
+
+background:#111827;
+
+color:#fff;
+
+padding:60px 0 30px;
+
+}
+
+footer a{
+
+color:#fff;
+
+text-decoration:none;
+
+margin:0 10px;
+
+}
+
+footer a:hover{
+
+color:#0d6efd;
+
+}
